@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(assets/bg-image.jpg);
+  background-image: url(assets/bg.jpg);
   background-size: cover;
 }
 
@@ -49,8 +49,8 @@ h2 {
 }
 
 h1, h2 {
-  color: #291B1A;
   margin-bottom: 4px;
+  color: #291B1A;
   line-height: 150%;
 }
 
